@@ -1,7 +1,9 @@
-#container {
-	margin-top: 20px;
-	margin-left: 10%;
-	margin-right: 10%;
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: #f2eae4;
+}
+.container {
+    margin: 2.5em auto;
     max-width: 900px;
 	padding: 10px 150px 10px 150px;
 	text-align: left;
@@ -12,7 +14,7 @@ h1 {
     color: #17365d;
     text-align: center;
     font-size: 2.5em;
-    padding-top: 2.5em;
+    padding-top: 1em;
 }
 
 h2 {
@@ -28,9 +30,7 @@ h3 {
     display: inline-block; 
     align-items: left;
 }
-body {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
+
 
 ul.contact {
     text-align: center;
